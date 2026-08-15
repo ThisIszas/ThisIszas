@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ThisIszas
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=600&width=620&lines=Front-end+Engineer;Vue3+%2B+TypeScript;Data+Visualization+%2F+Big-Screen;Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2600&pause=700&width=680&lines=%F0%9F%91%A8%F0%9F%92%BB+Front-end+Engineer;%F0%9F%8C%90+Vue3+%2B+TypeScript+%2B+DataV;%F0%9F%8E%AE+Big-Screen+%2F+3D+Visualization;%F0%9F%93%A6+UE+%2F+Salesforce+%2F+iOS;%E2%9C%A8+Open-Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,37 +9,44 @@
 ## 🛠️ 技术栈
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Pinia-FFB938?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge&logo=objectivec&logoColor=white" alt="Objective-C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,vite,nodejs,python,cpp,swift,unrealengine,threejs,sass,pinia,git,github,html,css&perline=8&theme=dark" alt="Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat-square&logo=apacheecharts&logoColor=white" alt="ECharts" />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=objectivec&logoColor=white" alt="Objective-C" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 ---
 
-## 📈 GitHub 统计
+## 📊 GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThisIszas&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThisIszas&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=ThisIszas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ## 🏆 成就
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ThisIszas&theme=tokyonight&row=1&column=7" alt="Trophy" />
+</p>
+
+---
+
+## 🐍 贡献动画
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThisIszas/ThisIszas/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+## 🧊 3D 贡献图
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThisIszas/ThisIszas/main/profile-3d-contrib/profile-night-view.svg" alt="3D contribution" />
 </p>
 
 ---
@@ -60,10 +67,11 @@
   </a>
 </p>
 
-### 更多项目
+### 更多
 
-- 数据可视化大屏 / 中后台系统（Vue3 + TypeScript + ECharts + Three.js）—— 主要工作方向
-- 工业智造前端（设备管理、生产看板、数据大屏等）
+- 数据可视化大屏 / 中后台系统（Vue3 + TypeScript + ECharts + Three.js）
+- 工业智造前端（设备管理、生产看板、数据大屏）
+- UE 可视化 / Salesforce / iOS（Swift + Objective-C）多端开发
 
 ---
 
