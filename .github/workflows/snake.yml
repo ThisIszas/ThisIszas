@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: ThisIszas
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#00E5FF&color_dots=#0A1B3D,#12345A,#1F5FA8,#2E9BFF,#4FC3FF
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#00E5FF&color_dots=#050B1A,#0A2A52,#124C8A,#2E9BFF,#4FC3FF
+            dist/github-contribution-grid-snake.svg?color_snake=#D5AE74&color_dots=#F1EEDC,#DDEBCF,#B7D5A3,#86B995,#568474
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#D5AE74&color_dots=#263D35,#365448,#52765F,#86B995,#BED9AB
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

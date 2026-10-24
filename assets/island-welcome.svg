@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Welcome to ThisIszas Island</title><desc id="desc">A peaceful green island with fruit trees, a little house, and a cream welcome sign. Front-end engineer, building small things with care.</desc>
+<defs>
+<pattern id="paper" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="3" cy="4" r="1" fill="#e9e2cb" opacity=".45"/></pattern>
+<pattern id="waves" width="80" height="30" patternUnits="userSpaceOnUse"><path d="M0 15Q20 4 40 15T80 15" fill="none" stroke="#c2ece1" stroke-width="2"/></pattern>
+</defs>
+<rect width="1200" height="500" rx="32" fill="#c6e9dc"/>
+<path d="M0 350Q190 310 370 370T760 360T1200 320V500H0Z" fill="#8dcfc2"/>
+<path d="M0 355Q170 325 360 375T755 367T1200 329" fill="none" stroke="#e4f4db" stroke-width="9"/>
+<path d="M0 385Q190 345 370 400T760 390T1200 355V500H0Z" fill="url(#waves)"/>
+<g fill="#f7fff6" opacity=".85"><rect x="66" y="60" width="108" height="22" rx="11"/><circle cx="108" cy="59" r="23"/><circle cx="137" cy="63" r="16"/><rect x="960" y="52" width="124" height="22" rx="11"/><circle cx="1004" cy="49" r="23"/><circle cx="1035" cy="51" r="18"/></g>
+<circle cx="1100" cy="122" r="35" fill="#f9df95"/>
+<ellipse cx="954" cy="356" rx="196" ry="75" fill="#f5e7bb"/>
+<ellipse cx="954" cy="335" rx="177" ry="69" fill="#97c783"/>
+<path d="M947 317Q916 346 952 383" stroke="#e9d7a1" stroke-width="30" fill="none"/>
+<g transform="translate(829 259)"><rect x="-7" y="-5" width="14" height="72" rx="6" fill="#aa8056"/><path d="M0 20L-16 7M0 0L18-12" stroke="#aa8056" stroke-width="7" stroke-linecap="round"/><circle cx="-24" cy="-19" r="33" fill="#69b985"/><circle cx="22" cy="-22" r="36" fill="#69b985"/><circle cy="-46" r="34" fill="#7fc997"/><circle cx="-17" cy="-36" r="7" fill="#f4b28a"/><circle cx="27" cy="-18" r="7" fill="#f4b28a"/></g><g transform="translate(1098 273) scale(.85)"><rect x="-7" y="-5" width="14" height="72" rx="6" fill="#aa8056"/><path d="M0 20L-16 7M0 0L18-12" stroke="#aa8056" stroke-width="7" stroke-linecap="round"/><circle cx="-24" cy="-19" r="33" fill="#69b985"/><circle cx="22" cy="-22" r="36" fill="#69b985"/><circle cy="-46" r="34" fill="#7fc997"/><circle cx="-17" cy="-36" r="7" fill="#f4b28a"/><circle cx="27" cy="-18" r="7" fill="#f4b28a"/></g>
+<g transform="translate(927 213)">
+<rect x="0" y="28" width="105" height="93" rx="8" fill="#fff1cc"/><path d="M-13 38L51-15L118 38Z" fill="#dc997d"/><path d="M-13 38L51-15L118 38" fill="none" stroke="#b97c66" stroke-width="7" stroke-linejoin="round"/><rect x="40" y="70" width="27" height="51" rx="13" fill="#927b58"/><circle cx="60" cy="99" r="2.5" fill="#f7de9a"/><rect x="10" y="59" width="22" height="26" rx="5" fill="#a7d6cd"/><path d="M21 59V85M10 72H32" stroke="#fffaf0" stroke-width="3"/><rect x="78" y="59" width="19" height="26" rx="5" fill="#a7d6cd"/>
+</g>
+<g fill="#fff3c9"><circle cx="847" cy="346" r="5"/><circle cx="860" cy="362" r="4"/><circle cx="1063" cy="353" r="5"/></g>
+<g transform="translate(40 97) rotate(-2 350 145)">
+<rect x="6" y="9" width="688" height="293" rx="30" fill="#6d9f83" opacity=".18"/>
+<rect width="688" height="293" rx="30" fill="#fff9e8"/>
+<rect width="688" height="293" rx="30" fill="url(#paper)"/>
+<rect x="17" y="17" width="654" height="259" rx="22" fill="none" stroke="#dfd9bb" stroke-width="2" stroke-dasharray="5 7"/>
+<rect x="37" y="-16" width="215" height="43" rx="20" fill="#568d6b"/>
+<text x="144" y="12" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" letter-spacing="3" fill="#fff9e8">ISLAND GETAWAY</text>
+<text x="43" y="86" font-family="sans-serif" font-size="23" fill="#8a9274">Hello, fellow traveler.</text>
+<text x="40" y="151" font-family="Trebuchet MS,DejaVu Sans,sans-serif" font-size="55" font-weight="bold" letter-spacing="-2" fill="#496650">ThisIszas Island</text>
+<path d="M44 174H385" stroke="#d3dfb0" stroke-width="8" stroke-linecap="round"/>
+<text x="43" y="214" font-family="sans-serif" font-size="20" fill="#788468">Front-end engineer · Creative explorer</text>
+<text x="43" y="250" font-family="sans-serif" font-size="17" fill="#9b987e">Small commits. A little growth. Every day.</text>
+<g transform="translate(611 215) rotate(18) scale(1.25)"><path d="M0 18C-24 8-16-17 9-17C29-17 27 7 10 17L6 8L0 18Z" fill="#53a57b"/><path d="M-5 13L12-7" fill="none" stroke="#fff5d7" stroke-width="2.5" stroke-linecap="round"/></g>
+</g>
+<g transform="translate(971 447)"><rect x="-155" y="-22" width="310" height="37" rx="18" fill="#fdf7df"/><text text-anchor="middle" y="2" font-family="sans-serif" font-size="12" letter-spacing="2" fill="#568474">TAKE IT ONE COMMIT AT A TIME</text></g>
+</svg>
